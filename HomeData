@@ -1,0 +1,31 @@
+{
+    "banner": [
+        {
+            "name": "Google",
+            "pic": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1491739861065&di=afc8b87ae0c529316abd6ac9f8fb822b&imgtype=jpg&src=http%3A%2F%2Fimg3.imgtn.bdimg.com%2Fit%2Fu%3D807620074%2C3633284013%26fm%3D214%26gp%3D0.jpg",
+            "videoUrl": "http://www.google.com"
+        },
+        {
+            "name": "Google",
+            "pic": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1491739860616&di=fe33c34d149b7b6fd50fc7aa138d6f68&imgtype=0&src=http%3A%2F%2Fimg1.gtimg.com%2Fcomic%2Fpics%2Fhv1%2F106%2F8%2F2048%2F133173346.jpg",
+            "videoUrl": "http://www.google.com"
+        },
+        {
+            "name": "Google",
+            "pic": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1491739860616&di=3258e70e2df3bef51e8693e3340157a0&imgtype=0&src=http%3A%2F%2Fcase.52design.com%2FUpfiles%2F201110%2FL111018374426.jpg",
+            "videoUrl": "http://www.google.com"
+        }
+    ],
+    "list": [
+        {
+            "name": "视频配音1",
+            "pic": "http://tupian.qqjay.com/tou2/2017/0129/8aee2e7ecd7b2f277fd770c52eb090a7.jpg",
+            "videoUrl": "http://www.google.com"
+        },
+        {
+            "name": "视频配音2",
+            "pic": "http://img3.duitang.com/uploads/item/201602/12/20160212214325_iFSaZ.thumb.224_0.jpeg",
+            "videoUrl": "http://www.google.com"
+        }
+    ]
+}
